@@ -6,7 +6,7 @@ This project demonstrates backend development fundamentals including models, vie
 <br>
 
 
-🚀 Features
+# 🚀 Features
 
 Create new records
 
@@ -29,7 +29,7 @@ Clean and simple UI using Django templates
 
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python 3
 
